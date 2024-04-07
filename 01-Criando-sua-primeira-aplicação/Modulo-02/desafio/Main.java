@@ -1,4 +1,4 @@
-//Exercício 1 
+//Exercício 1  - Calculo de média de notas
 
 public class Media{
     public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class Media{
     }
 }
 
-//Exercício 2
+//Exercício 2 - Casting
 
 public class Casting{
     public static void main(String[] args) {
@@ -20,7 +20,7 @@ public class Casting{
     }
 }
 
-//Exercício 3
+//Exercício 3 - Concatenação de Strings
 
 public class Palavras{
     public static void main(String[] args) {
@@ -34,7 +34,7 @@ public class Palavras{
 }
 
 
-//Exercício 4
+//Exercício 4 - Concatenação de Strings
 public class Produto{
     public static void main(String[] args) {
         double precoProduto = 29.99;
@@ -48,7 +48,7 @@ public class Produto{
     }
 }
 
-//Exercício 5
+//Exercício 5 - Conversão de Dólares para Reais
 public class ConversaoDolaresReais {
     public static void main(String[] args) {
         double valorEmDolares = 100.50;
@@ -60,7 +60,7 @@ public class ConversaoDolaresReais {
     }
 }
 
-//Exercício 6
+//Exercício 6 - Cálculo do Preço com Desconto
 public class CalculoDesconto {
     public static void main(String[] args) {
         double precoOriginal = 150.0;
