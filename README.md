@@ -1,6 +1,8 @@
 # 📌 Curso Backend em Java
 Este repositório trata-se dos conteúdos do curso da Oracle Next Education | ONE, referente a Back-end Java + SpringBoot
 
+<img src="https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/blob/main/assets/images/ONE.avif">
+
 <br>
 
 ## ✔️ Tecnologias Utilizadas
