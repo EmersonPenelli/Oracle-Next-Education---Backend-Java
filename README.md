@@ -22,10 +22,11 @@ O Curso consiste em 3 módulos principais:
 ## 📝 Seções
 ### 01: Introdução a linguagem Java
     - Modulo 01: Primeiro programa em Java
-       - em desenvolvimento...
+    - Modulo 02: Construindo um catálogo de filmes
+    - Modulo 03: Controlando o fluxo da aplicação
 
 ### 02: Java e Orientação a Objetos
-    - Modulo 01: 
+    - Modulo 01: Em desenvolvimento...
 
 
 ### 03: Java e SpringBoot
