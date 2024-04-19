@@ -1,7 +1,26 @@
-# Desafio Java: Aplicação de Consolidação de Conhecimentos
+# Desafio
 
-* Bem-vindo ao nosso desafio Java! Nesta etapa, queremos oferecer a você a oportunidade de consolidar seus conhecimentos em Java, aplicando uma variedade de conceitos e recursos discutidos ao longo do curso. A linguagem Java é reconhecida por sua potência e versatilidade, sendo amplamente utilizada em uma gama diversificada de aplicações do mundo real, desde jogos até sistemas empresariais robustos.
 
-* O desafio proposto consiste em desenvolver uma nova aplicação, com características distintas daquelas encontradas no projeto ScreenMatch. Esta é uma oportunidade empolgante para você praticar e aprofundar sua compreensão dos fundamentos da programação em Java. Estamos comprometidos em garantir que você tenha uma compreensão clara e abrangente do problema, permitindo que você desenvolva suas habilidades de resolução de problemas e programação de forma eficaz.
+Vamos implementar uma aplicação para controlar nossa conta bancária, seja ela virtual ou não. 
 
-* Está pronto para enfrentar este desafio? Vamos começar juntos nesta jornada emocionante de aprendizado e desenvolvimento!
+## 🔨 Objetivos do projeto
+
+- Criar um cabeçalho inicial com os dados do cliente (Nome, Tipo da Conta e Saldo)
+- Criar um menu que descreve as operações. Aqui você pode escolher o nome de método que mais lhe agradar, como *saca* (ou *transfere*, *enviaPix*) para simular a **retirada** de valores da conta
+e *deposita* (ou *recebeTransferencia*, *recebePix*) para representar a **entrada** de valores na conta.
+- O menu deve ter quatro opções: a de entrada de valor, saída de valor, consulta de saldo e finalização da aplicação.
+- Lembre-se que para fazer a saída de valores, é necessário ter saldo suficiente.
+- O menu deve aparecer continuamente até que o usuário digite a opção para sair.
+- Caso ele digite qualquer opção que não seja correta, deve apresentar a mensagem de opção inválida.
+- Usaremos a classe Scanner para fazer a leitura da opção do usuário.
+<p></p>
+
+Exemplo/Sugestão de tela para o menu: 
+
+<p></p>
+
+![image](https://user-images.githubusercontent.com/66698429/218162389-1b68a232-e91b-44ba-b7b3-317920d69ee1.png)
+
+
+
+Bom desafio!
