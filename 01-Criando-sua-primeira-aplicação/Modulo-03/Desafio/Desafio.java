@@ -13,6 +13,19 @@ public class Desafio {
         System.out.println("Saldo atual: " + saldo);
         System.out.println("\n************************************");
 
+        String menu = """
+                ** Digite sua opção **
+                1 - Consulta saldo
+                2 - Transferir valor
+                3 - Receber valor
+                4 - Sair
+                """;
+
+        Scanner leitura = new Scanner(System.in);
+
+        while (opcao != 4){
+            System.out.println(menu);
+            opcao = leitura.nextInt();
         }
     }
 }
