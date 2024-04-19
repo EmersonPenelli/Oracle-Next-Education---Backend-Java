@@ -3,8 +3,8 @@ public class Main {
         System.out.println("Esse é o Screen Match");
         System.out.println("Filme: Top gun: Maverick");
 
-        int anodeLançamento = 2022;
-        System.out.println("Ano de Lançamento: " + anodeLançamento);
+        int anodeLancamento = 2022;
+        System.out.println("Ano de Lançamento: " + anodeLancamento);
         boolean incluidoNoPlano = false;
         double notaDoFilme = 8.1;
 
@@ -16,7 +16,7 @@ public class Main {
                 Filme de aventura com ação
                 Muito bom!
                 Ano de lançamento
-                """ + anodeLançamento;
+                """ + anodeLancamento;
         System.out.println(sinopse);
 
 
