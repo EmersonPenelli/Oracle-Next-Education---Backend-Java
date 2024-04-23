@@ -9,21 +9,21 @@ Compreender esses conceitos é fundamental para a programação orientada a obje
 * Crie uma classe Pessoa com um método que exibe "Olá, mundo!" no console.  
 
 
-[Desafio-1](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/tree/main/02-Orientacao-a-objetos/Modulo-01/Desafio/src/Pessoa)
+[Desafio-1](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/tree/main/02-Orientacao-a-objetos/Modulo-01/Modelando-o-ScreenMatch/desafio/Pessoa)
 
 * Crie uma classe Calculadora com um método que recebe um número como parâmetro e retorna o dobro desse número.
 
 
-[Desafio-2](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/tree/main/02-Orientacao-a-objetos/Modulo-01/Desafio/src/Calculadora)
+[Desafio-2](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/tree/main/02-Orientacao-a-objetos/Modulo-01/Modelando-o-ScreenMatch/desafio/Calculadora)
 
 * Crie uma classe Musica com atributos titulo, artista, anoLancamento, avaliacao e numAvaliacoes, e métodos para exibir a ficha técnica, avaliar a música e calcular a média de avaliações.
 
-[Desafio-3](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/tree/main/02-Orientacao-a-objetos/Modulo-01/Desafio/src/Musica)
+[Desafio-3](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/tree/main/02-Orientacao-a-objetos/Modulo-01/Modelando-o-ScreenMatch/desafio/Musica)
 
 * Crie uma classe Carro com atributos modelo, ano, cor e métodos para exibir a ficha técnica e calcular a idade do carro.
 
-[Desafio-4](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/tree/main/02-Orientacao-a-objetos/Modulo-01/Desafio/src/Carro)
+[Desafio-4](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/tree/main/02-Orientacao-a-objetos/Modulo-01/Modelando-o-ScreenMatch/desafio/Carro)
 
 * Crie uma classe Aluno com atributos nome, idade, e um método para exibir informações. Crie uma instância da classe Aluno, atribua valores aos seus atributos e utilize o método para exibir as informações.
 
-[Desafio-5](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/tree/main/02-Orientacao-a-objetos/Modulo-01/Desafio/src/Aluno)
+[Desafio-5](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/tree/main/02-Orientacao-a-objetos/Modulo-01/Modelando-o-ScreenMatch/desafio/Aluno)
