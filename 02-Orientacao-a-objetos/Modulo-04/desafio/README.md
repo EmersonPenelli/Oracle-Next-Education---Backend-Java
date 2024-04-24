@@ -6,24 +6,24 @@ Para fixar melhor seu aprendizado, propomos uma lista de atividades práticas (n
 
 Crie uma classe ConversorMoeda que implementa uma interface ConversaoFinanceira com o método converterDolarParaReal() para converter um valor em dólar para reais. A classe deve receber o valor em dólar como parâmetro.
 
-  [Desafio-1]()
+  [Desafio-1](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/blob/main/02-Orientacao-a-objetos/Modulo-04/desafio/ConversorMoeda.java)
 
 Crie uma classe CalculadoraSalaRetangular que implementa uma interface CalculoGeometrico com os métodos calcularArea() e calcularPerimetro() para calcular a área e o perímetro de uma sala retangular. A classe deve receber altura e largura como parâmetros.
 
-  [Desafio-2]()
+  [Desafio-2](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/blob/main/02-Orientacao-a-objetos/Modulo-04/desafio/CalculadoraSalaRetangular.java)
   
 Crie uma classe TabuadaMultiplicacao que implementa uma interface Tabuada com o método mostrarTabuada() para exibir a tabuada de um número. A classe deve receber o número como parâmetro.
 
-    [Desafio-3]()
+  [Desafio-3](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/blob/main/02-Orientacao-a-objetos/Modulo-04/desafio/TabuadaMultiplicacao.java)
   
 Crie uma interface ConversorTemperatura com os métodos celsiusParaFahrenheit() e fahrenheitParaCelsius(). Implemente uma classe ConversorTemperaturaPadrao que implementa essa interface com as fórmulas de conversão e exibe os resultados
 
-    [Desafio-4]()
+  [Desafio-4](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/blob/main/02-Orientacao-a-objetos/Modulo-04/desafio/ConversaoTemperaturaPadrao.java)
   
 Crie uma interface Calculavel com um método double calcularPrecoFinal(). Implemente essa interface nas classes Livro e ProdutoFisico, cada uma retornando o preço final considerando descontos ou taxas adicionais.
 
-    [Desafio-5]()
+  [Desafio-5](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/blob/main/02-Orientacao-a-objetos/Modulo-04/desafio/Calculavel.java)
   
 Crie uma interface Vendavel com métodos para calcular o preço total de um produto com base na quantidade comprada e aplicar descontos. Implemente essa interface nas classes Produto e Servico, cada uma fornecendo a sua própria lógica de cálculo de preço.
 
-    [Desafio-6]()
+  [Desafio-6](https://github.com/EmersonPenelli/Oracle-Next-Education---Backend-Java/blob/main/02-Orientacao-a-objetos/Modulo-04/desafio/Vendavel.java)
