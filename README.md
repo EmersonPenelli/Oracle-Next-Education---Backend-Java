@@ -28,7 +28,9 @@ O Curso consiste em 3 módulos principais:
     - Modulo 03: Controlando o fluxo da aplicação
 
 ### 02: Java e Orientação a Objetos
-    - Modulo 01: Em desenvolvimento...
+    - Modulo 01: Orientação a objetos
+    - Modulo 02: Lista e Coleções
+    - Modulo 03: Consumindo API, rgavando arquivos e lidando com erros
 
 
 ### 03: Java e SpringBoot
