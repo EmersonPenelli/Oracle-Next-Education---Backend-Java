@@ -14,7 +14,7 @@ Este repositório trata-se dos conteúdos do curso da Oracle Next Education | ON
 <br>
 
 ## 📎 Sumário
-O Curso consiste em 3 módulos principais:
+O Curso consiste em 3 seções principais:
 - Introdução a linguagem Java
 - Java e Orientação a Objetos
 - Java e SpringBoot
@@ -30,11 +30,11 @@ O Curso consiste em 3 módulos principais:
 ### 02: Java e Orientação a Objetos
     - Modulo 01: Orientação a objetos
     - Modulo 02: Lista e Coleções
-    - Modulo 03: Consumindo API, rgavando arquivos e lidando com erros
+    - Modulo 03: Consumindo API, gravando arquivos e lidando com erros
 
 
 ### 03: Java e SpringBoot
-    - Modulo 01:
+    - Modulo 01: Lambdas, Stream e Spring Framework
 
 <br>
 
