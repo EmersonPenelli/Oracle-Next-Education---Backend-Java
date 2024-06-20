@@ -39,5 +39,5 @@ O Curso consiste em 3 seções principais:
 <br>
 
 ## 🙋🏻‍♂️ Autor
-
+<img src="https://avatars.githubusercontent.com/u/132641090?v=4" width="100" height="100">
 Emerson Penelli
