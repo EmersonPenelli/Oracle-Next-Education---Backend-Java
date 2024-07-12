@@ -35,6 +35,11 @@ O Curso consiste em 3 seções principais:
 
 ### 03: Java e SpringBoot
     - Modulo 01: Lambdas, Stream e Spring Framework
+    - Modulo 02: Persistência de dados e consultas com Spring Data JPA
+    - Modulo 03: Criando sua primeira API e conectando ao Front
+    - Modulo 04: Desenvolvimento de uma API Rest em Java
+    - Modulo 05: Boas práticas e proteção de uma API Rest
+    - Modulo 06: Documente, teste e prepare uma API apra Deploy
 
 <br>
 
