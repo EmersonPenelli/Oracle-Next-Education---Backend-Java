@@ -39,7 +39,7 @@ O Curso consiste em 3 seções principais:
     - Modulo 03: Criando sua primeira API e conectando ao Front
     - Modulo 04: Desenvolvimento de uma API Rest em Java
     - Modulo 05: Boas práticas e proteção de uma API Rest
-    - Modulo 06: Documente, teste e prepare uma API apra Deploy
+    - Modulo 06: Documente, teste e prepare uma API para Deploy
 
 <br>
 
